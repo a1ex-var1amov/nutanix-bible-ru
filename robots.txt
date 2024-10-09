@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://nutanixbible.ru/sitemap.xml
